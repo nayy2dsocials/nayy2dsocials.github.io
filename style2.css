@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    background-color: #18181a;
+    
+}
+
+.credits{
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.credits a{
+    color: #fff;
+    margin: 0px;
+}
+
+.credits h1{
+    margin-bottom: 20px;
+}
+
+.Youtube{
+    margin-top: 0px;
+}
+
+.Twitter{
+    margin-top: 15px;
+}
+
+.Discord{
+    margin-top: 15px;
+}
+
+.Tiktok{
+    margin-top: 15px;
+}
+
+.Srelite{
+    margin-top: 30px;
+}
